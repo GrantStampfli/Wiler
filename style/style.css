@@ -205,8 +205,8 @@ h1#logo a span{
 }
 h1#logo a{
 	display: inline-block;
-	width: 173px;
-	height: 90px;
+	width: 500px;
+	height: 61px;
 	background: url(../images/logo.png) no-repeat center center transparent;
 	margin: 0 10px;
 }
