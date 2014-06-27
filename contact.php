@@ -1,7 +1,7 @@
 <?php
 
 // Please change $email_website as your email address
-$email_website = "ewiler@yahoo.com";
+$email_website = "grantstampfli@gmail.com";
 $email_subject = "Contact Form Submission From WilerProductions.com";
 
 
